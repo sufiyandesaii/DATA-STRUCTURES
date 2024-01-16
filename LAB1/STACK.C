@@ -1,3 +1,4 @@
+//SUFIYAN DESAI
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 4
